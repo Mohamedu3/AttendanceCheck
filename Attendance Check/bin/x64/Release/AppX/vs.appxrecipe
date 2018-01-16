@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MOHAMED</Machine>
+    <WindowsUser>Mohamed-u3</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>2867cef8-d5fd-4ffa-81ca-704260c80ac6</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\obj\x64\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>FA5601B8096F09287913FF4015FEA6565C7CB197C8C929973862EC1DC9BC05AF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2867cef8-d5fd-4ffa-81ca-704260c80ac6_1.0.0.0_x64__b3k17ww0cq5hg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2867cef8-d5fd-4ffa-81ca-704260c80ac6_b3k17ww0cq5hg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2867cef8-d5fd-4ffa-81ca-704260c80ac6</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mohamed-u3</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-05T13:54:52.113</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\AttendanceCheck.exe">
+      <PackagePath>AttendanceCheck.exe</PackagePath>
+      <Modified>2017-03-05T14:02:11.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.17.0\Redist\Retail\x64\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2017-03-05T10:46:13.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\1.png">
+      <PackagePath>Assets\1.png</PackagePath>
+      <Modified>2017-03-05T09:30:17.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\2.png">
+      <PackagePath>Assets\2.png</PackagePath>
+      <Modified>2017-03-05T09:30:17.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\add.png">
+      <PackagePath>Assets\add.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.419</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\all.png">
+      <PackagePath>Assets\all.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\allaccounts.png">
+      <PackagePath>Assets\allaccounts.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\alllec.png">
+      <PackagePath>Assets\alllec.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\DummyLogo.png">
+      <PackagePath>Assets\DummyLogo.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\Error.png">
+      <PackagePath>Assets\Error.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.347</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\fingerprint.png">
+      <PackagePath>Assets\fingerprint.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\fingerprint2.png">
+      <PackagePath>Assets\fingerprint2.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.306</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\HHome.png">
+      <PackagePath>Assets\HHome.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\Home.png">
+      <PackagePath>Assets\Home.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\lec11.png">
+      <PackagePath>Assets\lec11.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\log.png">
+      <PackagePath>Assets\log.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\log2.png">
+      <PackagePath>Assets\log2.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-05T09:30:22.267</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\new.png">
+      <PackagePath>Assets\new.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\newaccount.png">
+      <PackagePath>Assets\newaccount.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\o6u.png">
+      <PackagePath>Assets\o6u.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\option1.png">
+      <PackagePath>Assets\option1.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\option2.png">
+      <PackagePath>Assets\option2.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\point.png">
+      <PackagePath>Assets\point.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\settings.png">
+      <PackagePath>Assets\settings.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\signout.png">
+      <PackagePath>Assets\signout.png</PackagePath>
+      <Modified>2017-03-05T09:30:22.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-05T09:30:22.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-05T09:30:22.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-05T09:30:22.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-05T09:30:22.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\takefp.png">
+      <PackagePath>Assets\takefp.png</PackagePath>
+      <Modified>2017-03-05T09:30:17.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\x_tap.png">
+      <PackagePath>Assets\x_tap.png</PackagePath>
+      <Modified>2017-03-05T09:30:17.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\_1.png">
+      <PackagePath>Assets\_1.png</PackagePath>
+      <Modified>2017-03-05T09:30:17.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\_bt.png">
+      <PackagePath>Assets\_bt.png</PackagePath>
+      <Modified>2017-03-05T09:30:17.913</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\17028908_10211167270490139_2044414388_n.jpg">
+      <PackagePath>Assets\17028908_10211167270490139_2044414388_n.jpg</PackagePath>
+      <Modified>2017-03-05T09:30:17.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\17078136_10211167642779446_599768490_n.jpg">
+      <PackagePath>Assets\17078136_10211167642779446_599768490_n.jpg</PackagePath>
+      <Modified>2017-03-05T09:30:22.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\Background.jpg">
+      <PackagePath>Assets\Background.jpg</PackagePath>
+      <Modified>2017-03-05T09:30:22.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\bccc.jpg">
+      <PackagePath>Assets\bccc.jpg</PackagePath>
+      <Modified>2017-03-05T09:30:22.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\bccc2.jpg">
+      <PackagePath>Assets\bccc2.jpg</PackagePath>
+      <Modified>2017-03-05T09:30:22.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-03-05T13:54:44.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-03-05T13:54:44.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\Views\AddStudent.xbf">
+      <PackagePath>Views\AddStudent.xbf</PackagePath>
+      <Modified>2017-03-05T14:02:10.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\Views\AllAccounts.xbf">
+      <PackagePath>Views\AllAccounts.xbf</PackagePath>
+      <Modified>2017-03-05T13:54:44.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\Views\AllLec.xbf">
+      <PackagePath>Views\AllLec.xbf</PackagePath>
+      <Modified>2017-03-05T13:54:44.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\Views\AllStudents.xbf">
+      <PackagePath>Views\AllStudents.xbf</PackagePath>
+      <Modified>2017-03-05T13:54:44.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\Views\Attendance.xbf">
+      <PackagePath>Views\Attendance.xbf</PackagePath>
+      <Modified>2017-03-05T13:54:44.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\Views\Edit.xbf">
+      <PackagePath>Views\Edit.xbf</PackagePath>
+      <Modified>2017-03-05T13:54:44.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\Views\Error.xbf">
+      <PackagePath>Views\Error.xbf</PackagePath>
+      <Modified>2017-03-05T13:54:44.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\Views\Home.xbf">
+      <PackagePath>Views\Home.xbf</PackagePath>
+      <Modified>2017-03-05T13:54:44.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\Views\NewLec.xbf">
+      <PackagePath>Views\NewLec.xbf</PackagePath>
+      <Modified>2017-03-05T13:54:44.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\Views\register.xbf">
+      <PackagePath>Views\register.xbf</PackagePath>
+      <Modified>2017-03-05T13:54:44.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\Views\Settings.xbf">
+      <PackagePath>Views\Settings.xbf</PackagePath>
+      <Modified>2017-03-05T13:54:44.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\Views\ViewLec.xbf">
+      <PackagePath>Views\ViewLec.xbf</PackagePath>
+      <Modified>2017-03-05T13:54:44.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\AttendanceCheck.xr.xml">
+      <PackagePath>AttendanceCheck.xr.xml</PackagePath>
+      <Modified>2017-03-05T14:02:10.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\x64\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-03-05T13:54:51.028</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MOHAMED</Machine>
+    <WindowsUser>Mohamed-u3</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2867cef8-d5fd-4ffa-81ca-704260c80ac6</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\AttendanceCheck.exe">
+      <PackagePath>AttendanceCheck.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\1.png">
+      <PackagePath>Assets\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\2.png">
+      <PackagePath>Assets\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\add.png">
+      <PackagePath>Assets\add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\all.png">
+      <PackagePath>Assets\all.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\allaccounts.png">
+      <PackagePath>Assets\allaccounts.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\alllec.png">
+      <PackagePath>Assets\alllec.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\DummyLogo.png">
+      <PackagePath>Assets\DummyLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\Error.png">
+      <PackagePath>Assets\Error.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\fingerprint.png">
+      <PackagePath>Assets\fingerprint.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\fingerprint2.png">
+      <PackagePath>Assets\fingerprint2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\HHome.png">
+      <PackagePath>Assets\HHome.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\Home.png">
+      <PackagePath>Assets\Home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\lec11.png">
+      <PackagePath>Assets\lec11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\log.png">
+      <PackagePath>Assets\log.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\log2.png">
+      <PackagePath>Assets\log2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\new.png">
+      <PackagePath>Assets\new.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\newaccount.png">
+      <PackagePath>Assets\newaccount.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\o6u.png">
+      <PackagePath>Assets\o6u.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\option1.png">
+      <PackagePath>Assets\option1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\option2.png">
+      <PackagePath>Assets\option2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\point.png">
+      <PackagePath>Assets\point.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\settings.png">
+      <PackagePath>Assets\settings.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\signout.png">
+      <PackagePath>Assets\signout.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\takefp.png">
+      <PackagePath>Assets\takefp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\x_tap.png">
+      <PackagePath>Assets\x_tap.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\_1.png">
+      <PackagePath>Assets\_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\_bt.png">
+      <PackagePath>Assets\_bt.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\17028908_10211167270490139_2044414388_n.jpg">
+      <PackagePath>Assets\17028908_10211167270490139_2044414388_n.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\17078136_10211167642779446_599768490_n.jpg">
+      <PackagePath>Assets\17078136_10211167642779446_599768490_n.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\Background.jpg">
+      <PackagePath>Assets\Background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\bccc.jpg">
+      <PackagePath>Assets\bccc.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\Assets\bccc2.jpg">
+      <PackagePath>Assets\bccc2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\Views\AddStudent.xbf">
+      <PackagePath>Views\AddStudent.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\Views\AllAccounts.xbf">
+      <PackagePath>Views\AllAccounts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\Views\AllLec.xbf">
+      <PackagePath>Views\AllLec.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\Views\AllStudents.xbf">
+      <PackagePath>Views\AllStudents.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\Views\Attendance.xbf">
+      <PackagePath>Views\Attendance.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\Views\Edit.xbf">
+      <PackagePath>Views\Edit.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\Views\Error.xbf">
+      <PackagePath>Views\Error.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\Views\Home.xbf">
+      <PackagePath>Views\Home.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\Views\NewLec.xbf">
+      <PackagePath>Views\NewLec.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\Views\register.xbf">
+      <PackagePath>Views\register.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\Views\Settings.xbf">
+      <PackagePath>Views\Settings.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\Views\ViewLec.xbf">
+      <PackagePath>Views\ViewLec.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\AttendanceCheck.xr.xml">
+      <PackagePath>AttendanceCheck.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2015\Projects\AttendanceCheck\AttendanceCheck\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
